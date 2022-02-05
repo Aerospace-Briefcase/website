@@ -1,0 +1,151 @@
+* {
+    margin: 0;
+    
+}
+
+body {
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+h1 {
+    font-family: 'Sacramento', cursive;
+    font-size: 90px;
+    margin-top: 20px;
+    color: #66bfbf;
+    line-height: 2;
+    
+}
+.occupation {
+    font-size: 2.5rem;
+    color: #66bfbf;
+    font-weight: normal;
+}
+.top_container {
+    /* margin: 15px; */
+    
+    background-color: #e4f9f5;
+    /* height: 20vh; */
+    padding-top: 70px;
+
+    
+}
+
+.second_cloud {
+    position: absolute;
+    top: 280px;
+    left: 310px;
+}
+.first_cloud {
+    position: absolute;
+    top: 50px;
+    right: 300px;
+    
+}
+
+h3 {
+    color: #11999e;
+}
+h2 {
+    color: #11999e;
+}
+p {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+.skill-row {
+    width: 50%;
+    margin: 100px auto;
+}
+
+.skill_info {
+    text-align: left;
+    margin: 10px 0;
+    line-height: 2;
+    
+}
+.yt {
+    float: left;
+    margin: 0 30px;
+    width: 25%;
+}
+
+.code {
+    float: right;
+    margin: 0 30px;
+    width: 25%;
+}
+
+/* .para {
+    clear: both;
+} */
+
+.me {
+    width: 50%;
+}
+.profile {
+    width: 40%;
+    margin: 0 auto;
+    
+}
+
+.intro {
+    margin: 0 0 20px 0;
+    
+}
+.dots {
+    font-size: 400%;
+    color: #d4d8d8;
+}
+.skills_title {
+    padding-top: 20px;
+}
+
+.contact {
+    padding: 20px;
+}
+
+.contact-me {
+    width: 50%;
+    margin: 0 auto;
+    line-height: 2;
+}
+
+.bottom-line {
+    margin-top: 15px;
+    margin-bottom: 45px;
+}
+
+.btn {
+    text-decoration: none;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 27%, rgba(0,212,255,1) 100%);
+    color: white;
+    width: 100px;
+    height: 100px;
+    padding: 10px 30px;
+    font-family: 'Fira code', sans-serif;
+    border-radius: 10px;
+}
+
+.bottom-container {
+    background-color: #66BFBF;
+    margin-top: 85px;
+    padding: 30px;
+    
+}
+
+.footer-link {
+    text-decoration: none;
+    margin: 10px 20px;
+    color: #0e777a;
+    
+}
+
+.copyright {
+    margin: 30px 0 0 0;
+    color: white;
+    font-size: 70%;
+    font-weight: normal;
+    font-family: 'Merriweather';
+}
