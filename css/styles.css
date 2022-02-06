@@ -149,3 +149,14 @@ p {
     font-weight: normal;
     font-family: 'Merriweather';
 }
+@media screen and (max-width:600px) {
+    .mountain {
+        width: 45%;
+    }
+    .first_cloud {
+        width: 20%;
+    }       
+    .second_cloud {
+        width: 20%;
+    }
+}
